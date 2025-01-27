@@ -1,0 +1,38 @@
+body{
+    background-image: url('../img/for.jpg');
+    background-size: cover;
+    height: 800px;
+}
+
+.head{
+    background-color: white;
+}
+
+.a{
+    color: rgb(204, 198, 198);
+    font-size:14px;
+    padding: 3px;
+}
+.y{
+text-align: center;
+ 
+ background-color: black;
+  color: white;
+  height: 50px;
+  
+
+}
+
+.b{
+    color: white;
+    margin-left: 35px;
+    
+}
+.head{
+height: 70px;
+}
+#e{
+
+    background-color:rgba(0, 0, 0, 0.4)
+    
+}

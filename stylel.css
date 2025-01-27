@@ -1,0 +1,22 @@
+
+
+body{
+    background-image: url('../img/free-office-wallpaper-26001-26685-hd-wallpapers.jpg');   
+    background-size: cover;
+    height: 550px;
+}
+
+
+ /* footer class a */
+.a{
+    color: rgb(204, 198, 198);
+    
+    font-size:14px;
+    padding: 3px;
+}
+.head{
+    height: 50px;
+   color: white;
+    
+    }
+    

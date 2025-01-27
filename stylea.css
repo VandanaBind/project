@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(226, 226, 236);
+}
+.g{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.b{
+    color: white;
+    margin-left: 35px;
+    
+}
+.a{
+    color: rgb(204, 198, 198);
+    font-size:14px;
+    padding: 3px;
+}
+.head{
+    height: 80px;
+    background-color: white;
+    }
+#c{
+    background-image: url('../img/cccc.jpg');
+    background-size: cover;
+    height: 300px;
+}    
